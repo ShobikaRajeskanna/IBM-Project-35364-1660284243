@@ -1,6 +1,6 @@
 # IBM-Project-35364-1660284243
 Skill / Job Recommender Application
-Team Members :
+
 SWETHA S:Team Leader
 
 SNEKA J: Team member
