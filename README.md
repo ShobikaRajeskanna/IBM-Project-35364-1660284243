@@ -11,4 +11,3 @@ SURYAPRAKASH S. M. : Team member
 
 SOWMIYA R: Team member
 
-KARTHIKEYAN N:Team Mentor
