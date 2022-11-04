@@ -2,12 +2,13 @@
 Skill / Job Recommender Application
 
 SWETHA S:Team Leader
+ROSHINI A: Team member 1
 
-SNEKA J: Team member
+SNEKA J: Team member 2
 
-ROSHINI A: Team member
+SOWMIYA R: Team member 3 
 
-SURYAPRAKASH S. M. : Team member
+SURYAPRAKASH S. M. : Team member 4
 
-SOWMIYA R: Team member
+
 
